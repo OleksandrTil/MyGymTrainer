@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GymKotlin</string>
+    <string name="login_welcome">Добро пожаловать!</string>
+    <string name="pectoral_musc">Грудные мышцы</string>
+    <string name="legs_musc">Ноги</string>
+    <string name="back_musc">Мышцы спины</string>
+    <string name="bic_musc">Бицепс</string>
+    <string name="tric_musc">Трицепс</string>
+    <string name="delta_musc">Плечи</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
